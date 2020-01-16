@@ -1,0 +1,12 @@
+E:\Source\Migration1\Migration1\bin\x64\Debug\Migration1.exe.config
+E:\Source\Migration1\Migration1\bin\x64\Debug\Migration1.exe
+E:\Source\Migration1\Migration1\bin\x64\Debug\Migration1.pdb
+E:\Source\Migration1\Migration1\obj\x64\Debug\Migration1.csproj.CoreCompileInputs.cache
+E:\Source\Migration1\Migration1\obj\x64\Debug\Migration1.exe
+E:\Source\Migration1\Migration1\obj\x64\Debug\Migration1.pdb
+G:\Migration1\Migration1\bin\x64\Debug\Migration1.exe.config
+G:\Migration1\Migration1\bin\x64\Debug\Migration1.exe
+G:\Migration1\Migration1\bin\x64\Debug\Migration1.pdb
+G:\Migration1\Migration1\obj\x64\Debug\Migration1.csproj.CoreCompileInputs.cache
+G:\Migration1\Migration1\obj\x64\Debug\Migration1.exe
+G:\Migration1\Migration1\obj\x64\Debug\Migration1.pdb
